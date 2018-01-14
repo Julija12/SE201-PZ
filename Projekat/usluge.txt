@@ -1,0 +1,58 @@
+Frizerske
+Sisanje,05.01.2017.,700
+Sisanje,03.01.2017.,700
+Sisanje,13.01.2017.,700
+Sisanje,06.01.2017.,700
+Farbanje,10.01.2017.,900
+Farbanje,10.02.2017.,900
+Farbanje,13.01.2017.,900
+Farbanje,20.01.2017.,900
+Feniranje,21.01.2017.,500
+Feniranje,10.02.2017.,900
+Feniranje,11.01.2017.,900
+Feniranje,19.01.2017.,900
+Nadogradnja kose,23.01.2017.,1200
+Nadogradnja kose,13.01.2017.,1200
+Nadogradnja kose,25.01.2017.,1200
+
+Kozmeticke
+Dijagnostika koze,07.02.2017.,2500
+Dijagnostika koze,07.01.2017.,2500
+Dijagnostika koze,13.02.2017.,2500
+Terapija lica,09.02.2017.,2000
+Terapija lica,13.01.2017.,2000
+Terapija lica,17.01.2017.,2000
+Ciscenje lica,22.01.2017.,4500
+Ciscenje lica,12.01.2017.,4500
+Ciscenje lica,31.01.2017.,4500
+Mezoterapija lica,15.02.2017.,3200
+Mezoterapija lica,16.02.2017.,3200
+Mezoterapija lica,25.02.2017.,3200
+
+Masaza
+Relax masaza,22.03.2017.,1300
+Relax masaza,12.03.2017.,1300
+Relax masaza,15.03.2017.,1300
+Anticelulit masaza,20.02.2017.,2300
+Anticelulit masaza,22.02.2017.,2300
+Anticelulit masaza,19.02.2017.,2300
+Sportska masaza,29.03.2017.,1500
+Sportska masaza,23.03.2017.,1500
+Sportska masaza,02.03.2017.,1500
+Limfna drenaza,27.01.2017.,1700
+Limfna drenaza,06.01.2017.,1700
+Limfna drenaza,17.01.2017.,1700
+
+Nega
+SPA manikir,14.03.2017.,2500
+SPA manikir,04.03.2017.,2500
+SPA manikir,10.02.2017.,2500
+SPA pedikir,15.03.2017.,3000
+SPA pedikir,11.03.2017.,3000
+Pakovanje ruku,12.02.2017.,3000
+Pakovanje ruku,15.03.2017.,3000
+Pakovanje ruku,02.03.2017.,3000
+Kavitacija,23.01.2017.,4000
+Kavitacija,07.02.2017.,4000
+Kavitacija,03.02.2017.,4000
+
